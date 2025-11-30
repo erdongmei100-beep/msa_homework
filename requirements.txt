@@ -1,4 +1,5 @@
-numpy
-scipy
-numba
-pandas
+hyperlpr3>=0.0.1
+opencv-python>=4.9.0
+numpy>=1.26.0
+pandas>=2.2.0
+onnxruntime>=1.16.0
